@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="title_activity_quiz1">Myers-Briggs Quiz</string>
+    <string name="title_activity_quiz2">Trivia Quiz</string>
+</resources>
